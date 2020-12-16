@@ -1,0 +1,29 @@
+
+    .img-thumbnail {
+    padding: .10rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 2rem;
+    max-width: 50%;
+    height: auto;
+}
+.section-stu{margin-bottom: 50px;}
+.section-mar {margin-top: 50px;
+                background-color: orange;}
+.section-mar .row img{width: 50%;
+                       
+                        border-radius: 30%;
+                        margin-right: 25px;}
+                        .imgg1{width: 150px;
+                                height: 150px;}
+                        .section-memo{margin-top: 50px;
+                                       margin-bottom: 50px; }
+                        .section-memo .h2{text-align: center;
+                                            color: #9c2307;
+                                            font-family: tahome;
+                                            font-weight: 800;
+                                            margin-bottom: 20px;}
+                                            .section-memo img{width: 50%;
+                                                                border-radius: 30%;
+                                                                margin-right: 25px;}
+    .section-last{margin-top: 50px;}      
